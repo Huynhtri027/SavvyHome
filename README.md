@@ -5,10 +5,11 @@ Savvy Home is the controller for smart home project that created by Android Stud
 There is also the Arduino Code that you can use.
 
 Apps Screen:
-![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screenshot/Screenshot_2016-12-13-19-43-48-319_developer.xebia.ismail.savvyhome.png)
-![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screenshot/Screenshot_2016-12-13-19-43-55-361_developer.xebia.ismail.savvyhome.png)
-![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screenshot/Screenshot_2016-12-13-19-44-05-266_developer.xebia.ismail.savvyhome.png)
-![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screenshot/Screenshot_2016-12-13-19-44-10-711_developer.xebia.ismail.savvyhome.png)
+
+![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screen/Screenshot_2016-12-13-19-43-48-319_developer.xebia.ismail.savvyhome.png)
+![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screen/Screenshot_2016-12-13-19-43-55-361_developer.xebia.ismail.savvyhome.png)
+![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screen/Screenshot_2016-12-13-19-44-05-266_developer.xebia.ismail.savvyhome.png)
+![alt tag](https://raw.githubusercontent.com/arrivaldwis/SavvyHome/master/screen/Screenshot_2016-12-13-19-44-10-711_developer.xebia.ismail.savvyhome.png)
 
 Video Demo:
 
