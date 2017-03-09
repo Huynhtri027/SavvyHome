@@ -24,7 +24,7 @@ Video Demo:
 6. 6 LED
 7. SG90 Servo Motor
 
-The Schematic Diagram will be uploaded soon...
+The Schematic Diagram will be uploaded soon..
 
 ## Features
 1. Realtime Temperature & Humidity Chart
